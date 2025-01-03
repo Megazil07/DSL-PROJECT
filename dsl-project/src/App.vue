@@ -13,9 +13,14 @@ import TVshow from './staff/TVshow.vue';
 import Daysetting from './staff/Daysetting.vue';
 import EditDayRepairdoc from './staff/EditDayRepairdoc.vue';
 import EditdaysendDoc1 from './staff/EditdaysendDoc1.vue';
+import Mainaddmin from './admin/Mainaddmin.vue';
+import addstaff from './admin/addstaff.vue';
+
 
 </script>
 
 <template>
-<EditdaysendDoc1/>
+
+<addstaff/>
+
 </template>
