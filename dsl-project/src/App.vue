@@ -12,9 +12,10 @@ import StaffCallQueue from './staff/StaffCallQueue.vue';
 import TVshow from './staff/TVshow.vue';
 import Daysetting from './staff/Daysetting.vue';
 import EditDayRepairdoc from './staff/EditDayRepairdoc.vue';
+import EditdaysendDoc1 from './staff/EditdaysendDoc1.vue';
 
 </script>
 
 <template>
-<Mainstaff/>
+<EditdaysendDoc1/>
 </template>
